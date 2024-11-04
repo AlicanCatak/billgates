@@ -9,5 +9,11 @@ Bu proje, kullanıcıların Bill Gates'in servetini harcamayı simüle edebilece
 - ✅ Bazı ürünler yalnızca bir kez satın alınabilir ve satın alındıktan sonra Satın Al butonu devre dışı kalır.
 - ✅ Satın alınan ürünler geri satılarak paranın bir kısmı geri kazanılabilir.
 
+# Kullanım
+- 🛠️ React - Kullanıcı arayüzü oluşturma.
+- 🛠️ JavaScript (ES6+) - Uygulama mantığı.
+- 🛠️ CSS - Bileşenlerin stillendirilmesi.
+- 🛠️ HTML - Sayfa yapısı.
+
 
 [Link]([https://precious-truffle-9624d4.netlify.app](https://billgates-seven.vercel.app/))
