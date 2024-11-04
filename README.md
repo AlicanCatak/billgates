@@ -16,4 +16,4 @@ Bu proje, kullanıcıların Bill Gates'in servetini harcamayı simüle edebilece
 - 🛠️ HTML - Sayfa yapısı.
 
 
-[Link](https://billgates-seven.vercel.app/)
+[Link]([https://billgates-seven.vercel.app/](https://billgates-hkjdqnech-alicancataks-projects.vercel.app/))
