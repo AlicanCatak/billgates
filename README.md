@@ -1,21 +1,6 @@
-#Bill Gates'in Parasını Harca - React Web Uygulaması
-#Bu proje, kullanıcıların Bill Gates'in servetini harcamayı simüle edebilecekleri React tabanlı bir web uygulamasıdır. Amaç, kullanıcılara çeşitli ürünler üzerinde büyük miktarda para harcamayı deneyimletmektir.
+# Spend Bill Gates' Money - React Web Application
 
-#Özellikler
--✅ Kullanıcılar, başlangıçta büyük bir miktar parayla başlar ve çeşitli ürünler satın alabilir.
--✅ Ürünler, resim, başlık ve fiyat bilgisi içeren kartlar halinde gösterilir.
--✅ Bazı ürünler yalnızca bir kez satın alınabilir ve satın alındıktan sonra Satın Al butonu devre dışı kalır.
--✅ Satın alınan ürünler geri satılarak paranın bir kısmı geri kazanılabilir.
+This project is a React web application where users can spend fictional money on various products, similar to the "Spend Bill Gates' Money" concept. The goal is to allow users to simulate spending large sums of money on a variety of items, with certain restrictions, such as only being able to buy certain products once.
 
-#Kullanım
--🛒 Uygulama açıldığında, kullanıcılar başlangıç parasıyla ürünleri görüntüleyebilir.
--🛒 Ürünler, Satın Al butonuna tıklanarak satın alınabilir ve bakiye düşer.
--🛒 Sat butonu ile ürünler geri satılabilir ve bakiye geri kazanılabilir.
--🛒 Bazı ürünler sadece bir kez satın alınabilir ve ardından buton devre dışı kalır.
-#Teknolojiler
--🛠️ React - Kullanıcı arayüzü oluşturma.
--🛠️ JavaScript (ES6+) - Uygulama mantığı.
--🛠️ CSS - Bileşenlerin stillendirilmesi.
--🛠️ HTML - Sayfa yapısı.
 
 [Link]([https://precious-truffle-9624d4.netlify.app](https://billgates-seven.vercel.app/))
