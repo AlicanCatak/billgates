@@ -17,3 +17,5 @@
 -🛠️ JavaScript (ES6+) - Uygulama mantığı.
 -🛠️ CSS - Bileşenlerin stillendirilmesi.
 -🛠️ HTML - Sayfa yapısı.
+
+[Link]([https://precious-truffle-9624d4.netlify.app](https://billgates-seven.vercel.app/))
